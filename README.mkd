@@ -4,11 +4,11 @@ En cas de problème ou suggestion, n'hésitez pas à me contacter sur Twitter : 
 
 # 2.58
 - Abyssal
+- Argentic
 - Dofusbook
 - JeuxOnLine
 
 # 2.54
-- Argentic
 - Bluestone
 - Sandstone
 - Wosissuwe
