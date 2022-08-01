@@ -1,37 +1,27 @@
 p {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: justify;
 	font-weight: normal;
 }
 left {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: left;
 }
 right {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: right;
 }
-
-rightpadding {
-	font-family: Roboto;
-	font-size: 14;
-	color: #c7c7c5;
-	font-weight: normal;
-	text-align: right;
-	padding-right: 5px;
-}
-
 center {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: center;
@@ -39,37 +29,37 @@ center {
 
 bold {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: justify;
 	font-weight: bold;
 }
 
 italic {
-	font-family: Roboto;
-	font-size: 14;
-	color: #c7c7c5;
-	text-align: justify;
-	font-style: italic;
+    font-family: Roboto;
+    font-size: 15;
+    color: #c7c7c5;
+    text-align: justify;
+    font-stylet: italic;
 }
 
 boldleft {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: left;
 }
 boldright {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: right;
 }
 boldcenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: center;
@@ -78,61 +68,61 @@ boldcenter {
 
 disabled {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #848480;
+	font-size: 15px;
+	color: #4a4b46;
 	text-align: justify;
 	font-weight: normal;
 }
 disabledcenter {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #848480;
+	font-size: 15px;
+	color: #4a4b46;
 	text-align: center;
 	font-weight: normal;
 }
 disabledright {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #848480;
+	font-size: 15px;
+	color: #4a4b46;
 	text-align: right;
 	font-weight: normal;
 }
 bolddisabled {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #848480;
+	font-size: 15px;
+	color: #4a4b46;
 	text-align: justify;
 	font-weight: bold;
 }
 
 medium {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: justify;
 }
 mediumleft {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: left;
 }
 mediumright {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: right;
 }
 mediumcenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: center;
 }
 
 mediumcenterbold {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: center;
 	font-weight: bold;
@@ -140,7 +130,7 @@ mediumcenterbold {
 
 mediumleftbold {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: left;
 	font-weight: bold;
@@ -148,7 +138,7 @@ mediumleftbold {
 
 mediumrightbold {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	text-align: right;
 	font-weight: bold;
@@ -156,7 +146,7 @@ mediumrightbold {
 
 condensedboldleft {
 	font-family: RobotoCondensed;
-	font-size: 14px;
+	font-size: 15px;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: left;
@@ -164,14 +154,14 @@ condensedboldleft {
 
 condensedboldcenter {
 	font-family: RobotoCondensed;
-	font-size: 14px;
+	font-size: 15px;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: center;
 }
 condensedboldright {
 	font-family: RobotoCondensed;
-	font-size: 14px;
+	font-size: 15px;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: right;
@@ -180,28 +170,28 @@ condensedboldright {
 
 dark {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #696968;
 	text-align: justify;
 	font-weight: normal;
 }
 darkleft {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #696968;
 	font-weight: normal;
 	text-align: left;
 }
 darkright {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #696968;
 	font-weight: normal;
 	text-align: right;
 }
 darkcenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #696968;
 	font-weight: normal;
 	text-align: center;
@@ -209,7 +199,7 @@ darkcenter {
 
 whiteleft {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ffffff;
 	font-weight: normal;
 	text-align: left;
@@ -225,7 +215,7 @@ whiteright {
 
 whitecenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ffffff;
 	font-weight: normal;
 	text-align: center;
@@ -233,102 +223,81 @@ whitecenter {
 
 whitemediumcenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ffffff;
 	text-align: center;
 	text-decoration: none;
 }
 
 darkboldcenter {
-	font-family: Roboto;
-	font-size: 14;
-	color: #3c381b;
-	font-weight: bold;
-	text-align: center;
-}
-
-blue {
-	font-family: Roboto;
-	font-size: 14;
-	color: #22f7fd
-	text-align: justify;
-}
-
-blueright_blue{
-	text-align: right;
+    font-family: Roboto;
+    font-size: 15;
+    color: #3c381b;
+    font-weight: bold;
+    text-align: center;
 }
 
 green {
 	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
+	font-size: 15;
+	color: #3BCBB8;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
+	font-size: 15;
+	color: #3BCBB8;
 	text-align: left;
 }
 
 greenleftlight {
-	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
-	font-weight: lighter;
-	text-align: left;
+	 font-family: Roboto;
+	 font-size: 14;
+	 color: #3BCBB8;
+	 font-weight: lighter;
+	 text-align: left;
 }
 
 greenright {
 	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
+	font-size: 15;
+	color: #3BCBB8;
 	text-align: right;
 }
-
 greencenter {
 	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
+	font-size: 15;
+	color: #3BCBB8;
 	text-align: center;
 	text-decoration: none;
 }
-
 greenunderlinecenter {
 	font-family: Roboto;
-	font-size: 14;
-	color: #deff00;
+	font-size: 15;
+	color: #3BCBB8;
 	text-align: center;
 	text-decoration: underline;
 }
 
 truegreen {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #7fc717;
 	text-align: justify;
 }
 
 yellow {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #faf21a;
 	text-align: justify;
 }
 
 orange {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ebc304;
 	text-align: justify;
-}
-
-orangebold {
-	font-family: Roboto;
-	font-size: 14;
-	color: #ebc304;
-	font-weight: bold;
-	text-align: left;
 }
 
 orangeitalic {
@@ -336,6 +305,14 @@ orangeitalic {
 	font-size: 14;
 	color: #ebc304;
 	font-weight: italic;
+	text-align: left;
+}
+
+orangebold {
+	font-family: Roboto;
+	font-size: 14;
+	color: #ebc304;
+	font-weight: bold;
 	text-align: left;
 }
 
@@ -360,13 +337,13 @@ orangeleftlight {
 
 orangeright {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ebc304;
 	text-align: right;
 }
 orangecenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #ebc304;
 	text-align: center;
 }
@@ -378,25 +355,12 @@ orangecenterbold {
 	font-weight: bold;
 	text-align: center;
 }
-lightred {
-	font-family: Roboto;
-	font-size: 14;
-	color: #FF5C55;
-	text-align: justify;
-}
 
 red {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #eb0000;
 	text-align: justify;
-}
-
-lightredleft {
-	font-family: Roboto;
-	font-size: 14;
-	color: #FF5C55;
-	text-align: left;
 }
 redleft {
 	font-family: Roboto;
@@ -404,23 +368,11 @@ redleft {
 	color: #eb0000;
 	text-align: left;
 }
-lightredright {
-	font-family: Roboto;
-	font-size: 14;
-	color: #FF5C55;
-	text-align: right;
-}
 redright {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #eb0000;
 	text-align: right;
-}
-lightredcenter {
-	font-family: Roboto;
-	font-size: 14;
-	color: #FF5C55;
-	text-align: center
 }
 redcenter {
 	font-family: Roboto;
@@ -431,30 +383,30 @@ redcenter {
 
 mediumparchment {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #3f3932;
 }
 mediumparchmentright {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #3f3932;
 	text-align: right;
 }
 mediumparchmentcenter {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #3f3932;
 	text-align: center;
 }
 mediumboldparchment {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #3f3932;
 	font-weight: bold;
 }
 mediumboldparchmentright {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #3f3932;
 	text-align: right;
 	font-weight: bold;
@@ -463,27 +415,27 @@ mediumboldparchmentright {
 
 whitebold {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #e0e0de;
 	font-weight: bold;
 }
 whiteboldleft {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: left;
 }
 whiteboldright {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: right;
 }
 whiteboldcenter {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 15px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: center;
@@ -491,21 +443,21 @@ whiteboldcenter {
 
 darkbold {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #2d1e13;
+	font-size: 15px;
+	color: #daeefc;
 	font-weight: bold;
 }
 darkboldleft {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #2d1e13;
+	font-size: 15px;
+	color: #daeefc;
 	font-weight: bold;
 	text-align: left;
 }
 darkboldright {
 	font-family: Roboto;
-	font-size: 14px;
-	color: #2d1e13;
+	font-size: 15px;
+	color: #daeefc;
 	font-weight: bold;
 	text-align: right;
 }
@@ -519,7 +471,7 @@ darkboldcenter {
 
 shadowedcenter {
 	font-family: Roboto;
-	font-size: 14;
+	font-size: 15;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: center;
@@ -533,7 +485,7 @@ grey_p {
 }
 
 italicgrey_grey {
-	font-style: italic;
+    font-style: italic;
 }
 
 greybold_grey {

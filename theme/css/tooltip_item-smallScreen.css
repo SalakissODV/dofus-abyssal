@@ -1,7 +1,8 @@
 p {
-	font-family: Tahoma;
+	font-family: RobotoCondensed;
 	font-size: 17;
 	color: #c7c7c5;
+	text-align: justify;
 }
 
 .separator {
@@ -20,74 +21,44 @@ p {
 }
 
 .value {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
+	font-weight: bold;
 	color: #ffffff;
 }
 
 .subtitle {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 18;
+	font-weight: bold;
 	color: #dfdfdf;
 	margin-left: 16;
 }
 
-.subtitlenomargin {
-	font-family: Roboto;
-	font-size: 18;
-	color: #dfdfdf;
-}
-
 .bonus {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
-	color: #52AE3F;
+	color: #6db213;
 }
 
 .bonusvalue {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	font-weight: bold;
-	color: #52AE3F;
+	color: #8bf402;
 }
 
 .malus {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
-	color: #CB685E;
+	color: #d0483a;
 }
 
 .malusvalue {
-	font-family: Tahoma;
-	font-size: 17;
-	font-weight: bold;
-	color: #CB685E;
-}
-
-.neutral {
 	font-family: Roboto;
 	font-size: 17;
-	color: #969695;
-}
-
-.neutralvalue {
-	font-family: Roboto;
-	font-size: 17;
-	color: #969695;
-}
-
-.overFm {
-	font-family: Roboto;
-	font-size: 18;
 	font-weight: bold;
-	color: #5dcf45;
-}
-
-.overFmvalue {
-	font-family: Roboto;
-	font-size: 18;
-	font-weight: bold;
-	color: #5dcf45;
+	color: #d0483a;
 }
 
 .subeffectleftcolumn {
@@ -100,39 +71,41 @@ p {
 }
 
 .exotic {
-	font-family: Tahoma;
-	font-size: 17;
-	color: #658FC4;
+	font-family: Roboto;
+	font-size: 18;
+	font-weight: bold;
+	color: #68b6ff;
 }
 
 .exoticvalue {
-	font-family: Tahoma;
-	font-size: 17;
+	font-family: Roboto;
+	font-size: 18;
 	font-weight: bold;
-	color: #658FC4;
+	color: #68b6ff;
 }
 
 .theoretical {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
-	color: #969695 ;
+	color: #c7c7c5 ;
 }
 
 .requirement {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	color: #d9ad67;
 }
 
 .special {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	color: #deb169;
 }
 
 .set {
-	font-family: Tahoma;
-	font-size: 17;
+	font-family: Roboto;
+	text-transform : uppercase;
+	font-size: 18;
 	color: #ebc304;
 }
 
@@ -144,41 +117,44 @@ p {
 }
 
 .description {
-	font-family: Tahoma;
-	font-size: 17;
-	color: #E6893D;
+	font-family: Roboto;
+	text-align: justify;
+	font-size: 17px;
+	color: #64BCB0;
 }
 
 .quote {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	font-style: italic;
-	color: #9D9D9C;
+	color: #64BCB0;
 }
 
 .headerp {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	color: #c7c7c5;
-	margin-right: 126;
+	margin-left: 48;
 }
 
 .headermalus {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	color: #d0483a;
 	margin-left: 48;
 }
 
 .headertitle {
-	font-family: Tahoma;
-	font-size: 18;
+	font-family: Roboto;
+	font-size: 20;
+	text-transform : uppercase;
+	font-weight: bold;
 	color: #dfdfdf;
-	margin-right: 126;
+	margin-left: 48;
 }
 
 .footer {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
@@ -186,93 +162,29 @@ p {
 }
 
 .footerleft {
-	font-family: Tahoma;
-	font-size: 15;
+	font-family: Roboto;
+	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: left;
-	leading: -22;
+	leading: -17;
 }
 
 .footerright {
-	font-family: Tahoma;
-	font-size: 15;
+	font-family: Roboto;
+	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: right;
 }
 
 spellZone {
-	font-family: Tahoma;
+	font-family: Roboto;
 	font-size: 17;
 	color: #c7c7c5;
 	margin-left: 32;
 }
 
 .contentmargin {
-	margin-right: 126;
-}
-
-
-.probaright {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-}
-
-.common {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-	color: #848480;
-}
-
-.uncommon {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-	color: #6db213;
-}
-
-.rare {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-	color: #1B96FF;
-}
-
-.epic {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-	color: #9400d3;
-}
-
-.legendary {
-	font-family: Roboto;
-	font-size: 17;
-	text-align: right;
-	leading: -19;
-	color: #ffb400;
-}
-
-.descriptionproba {
-	font-family: Roboto;
-	font-size: 17;
-	color: #E6893D;
-	margin-left: 22;
-	margin-right: 75;
-	text-align: left;
-}
-
-.valueLineWithIcon {
-	font-family: Roboto;
-	font-size: 15;
-	color: #c7c7c5;
 	margin-right: 126;
 }

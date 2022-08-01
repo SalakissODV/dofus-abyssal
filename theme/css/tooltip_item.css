@@ -1,6 +1,6 @@
 p {
-	font-family: Roboto;
-	font-size: 15;
+	font-family: RobotoCondensed;
+	font-size: 17;
 	color: #c7c7c5;
 }
 
@@ -16,19 +16,19 @@ p {
 .customlirightmargin {
 	color: #57574f;
 	margin-left: 22;
-	margin-right: 124;
+	margin-right: 104;
 }
 
 .value {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	font-weight: bold;
 	color: #ffffff;
 }
 
 .subtitle {
 	font-family: Roboto;
-	font-size: 16;
+	font-size: 18;
 	font-weight: bold;
 	color: #dfdfdf;
 	margin-left: 16;
@@ -43,26 +43,28 @@ p {
 
 .bonus {
 	font-family: Roboto;
-	font-size: 15;
-	color: #52AE3F;
+	font-size: 17;
+	color: #6db213;
 }
 
 .bonusvalue {
 	font-family: Roboto;
-	font-size: 15;
-	color: #52AE3F;
+	font-size: 17;
+	font-weight: bold;
+	color: #8bf402;
 }
 
 .malus {
 	font-family: Roboto;
-	font-size: 15;
-	color: #CB685E;
+	font-size: 17;
+	color: #d0483a;
 }
 
 .malusvalue {
 	font-family: Roboto;
-	font-size: 15;
-	color: #CB685E;
+	font-size: 17;
+	font-weight: bold;
+	color: #d0483a;
 }
 
 .neutral {
@@ -79,15 +81,16 @@ p {
 
 .overFm {
 	font-family: Roboto;
-	font-size: 16;
+	font-size: 17;
 	font-weight: bold;
-	color: #5dcf45;
+	color: #d6ee51;
 }
 
 .overFmvalue {
 	font-family: Roboto;
-	font-size: 16;
-	color: #5dcf45;
+	font-size: 17;
+	font-weight: bold;
+	color: #d6ee51;
 }
 
 .subeffectleftcolumn {
@@ -101,37 +104,40 @@ p {
 
 .exotic {
 	font-family: Roboto;
-	font-size: 15;
-	color: #658FC4;
+	font-size: 19;
+	font-weight: bold;
+	color: #68b6ff;
 }
 
 .exoticvalue {
 	font-family: Roboto;
-	font-size: 15;
-	color: #658FC4;
+	font-size: 19;
+	font-weight: bold;
+	color: #68b6ff;
 }
 
 .theoretical {
 	font-family: Roboto;
-	font-size: 15;
-	color: #969695 ;
+	font-size: 17;
+	color: #c7c7c5 ;
 }
 
 .requirement {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	color: #d9ad67;
 }
 
 .special {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	color: #deb169;
 }
 
 .set {
 	font-family: Roboto;
-	font-size: 15;
+	text-transform : uppercase;
+	font-size: 18;
 	color: #ebc304;
 }
 
@@ -144,34 +150,35 @@ p {
 
 .description {
 	font-family: Roboto;
-	font-size: 15;
-	color: #E6893D;
+	font-size: 17px;
+	color: #64BCB0;
 }
 
 .quote {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	font-style: italic;
-	color: #9D9D9C;
+	color: #64BCB0;
 }
 
 .headerp {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	color: #c7c7c5;
 	margin-right: 126;
 }
 
 .headermalus {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	color: #d0483a;
 	margin-right: 126;
 }
 
 .headertitle {
 	font-family: Roboto;
-	font-size: 18;
+	font-size: 20;
+	text-transform : uppercase;
 	font-weight: bold;
 	color: #dfdfdf;
 	margin-right: 126;
@@ -179,7 +186,7 @@ p {
 
 .footer {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: center;
@@ -187,16 +194,16 @@ p {
 
 .footerleft {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: left;
-	leading: -15;
+	leading: -17;
 }
 
 .footerright {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: right;
@@ -204,14 +211,14 @@ p {
 
 spellZone {
 	font-family: Roboto;
-	font-size: 15;
+	font-size: 17;
 	color: #c7c7c5;
 	margin-left: 32;
 }
-
 .contentmargin {
 	margin-right: 126;
 }
+
 
 .probaright {
 	font-family: Roboto;
@@ -267,11 +274,4 @@ spellZone {
 	margin-left: 22;
 	margin-right: 75;
 	text-align: left;
-}
-
-.valueLineWithIcon {
-	font-family: Roboto;
-	font-size: 15;
-	color: #c7c7c5;
-	margin-right: 126;
 }

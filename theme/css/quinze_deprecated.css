@@ -117,25 +117,25 @@ darkcenter {
 green {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #3BCBB8;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #3BCBB8;
 	text-align: left;
 }
 greenright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #3BCBB8;
 	text-align: right;
 }
 greencenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #3BCBB8;
 	text-align: center;
 }
 
@@ -203,27 +203,27 @@ whiteboldcenter {
 darkbold {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #2d1e13;
+	color: #daeefc;
 	font-weight: bold;
 }
 darkboldleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #2d1e13;
+	color: #daeefc;
 	font-weight: bold;
 	text-align: left;
 }
 darkboldright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #2d1e13;
+	color: #daeefc;
 	font-weight: bold;
 	text-align: right;
 }
 darkboldcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #2d1e13;
+	color: #daeefc;
 	font-weight: bold;
 	text-align: center;
 }

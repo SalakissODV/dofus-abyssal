@@ -2,7 +2,7 @@ p {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #E7DEDA;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
 
@@ -10,7 +10,7 @@ p {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #E7DEDA;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
 
@@ -18,7 +18,7 @@ red {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #ff0142;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
 
@@ -26,7 +26,7 @@ green {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #66ff99;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
 
@@ -34,7 +34,7 @@ blue {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #00ffff;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
 
@@ -42,6 +42,6 @@ orange {
 	font-family: Verdana;
 	font-size: 17px;
 	color: #ffae00;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 }
