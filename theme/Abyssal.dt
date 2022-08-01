@@ -1,0 +1,11 @@
+<theme>
+	<skinType>1</skinType>
+    <name>Abyssal</name>
+    <description>Thème aquatique basé sur l'extension sous-marine. (non terminé)</description>
+    <previewUri>Abyssal.png</previewUri>
+	<author>Salakiss</author>
+	<version>2.0.0</version>
+    <dofusVersion>2.58</dofusVersion> 
+    <creationDate>09/11/2016</creationDate> 
+    <modificationDate>28/12/2020</modificationDate> 
+</theme>
