@@ -1,0 +1,33 @@
+p {
+	font-family: Roboto;
+	font-size: 15;
+	color: #d6d0bb;
+	font-weight: bold;
+    text-align: center;
+    shadow-distance: 0;
+    shadow-strength: 2;
+}
+
+left_p {
+	text-align: left;
+}
+
+light_p {
+	color: #ffffff;
+}
+
+small_p {
+	font-size: 13;
+}
+
+lightSmall_small {
+	color: #ffffff;
+}
+
+condensed_p {
+	font-family: RobotoCondensed;
+}
+
+big_condensed_p {
+	font-size: 26;
+}

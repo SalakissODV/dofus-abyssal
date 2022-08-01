@@ -1,0 +1,47 @@
+p {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #383838;
+	text-align: center;
+	font-weight: bold;
+}
+
+#cssClass {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #383838;
+	text-align: center;
+	font-weight: bold;
+}
+
+red {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #aa0c0c;
+	text-align: center;
+	font-weight: bold;
+}
+
+green {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #238011;
+	text-align: center;
+	font-weight: bold;
+}
+
+blue {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #097ba8;
+	text-align: center;
+	font-weight: bold;
+}
+
+orange {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #926401;
+	text-align: center;
+	font-weight: bold;
+}

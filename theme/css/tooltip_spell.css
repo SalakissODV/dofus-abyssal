@@ -1,0 +1,189 @@
+p {
+	font-family: Roboto;
+	font-size: 15;
+	color: #353535;
+}
+
+.separator {
+	leading: -12;
+}
+
+.customli {
+	color: #57574f;
+	margin-left: 22;
+}
+
+.value {
+	font-family: Roboto;
+	font-size: 15;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.subtitle {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #353535;
+	margin-left: 16;
+}
+
+.bonus {
+	font-family: Roboto;
+	font-size: 15;
+	color: #235818;
+}
+
+.bonusvalue {
+	font-family: Roboto;
+	font-size: 15;
+	font-weight: bold;
+	color: #235818;
+}
+
+.malus {
+	font-family: Roboto;
+	font-size: 15;
+	color: #a30000;
+}
+
+.malusvalue {
+	font-family: Roboto;
+	font-size: 15;
+	font-weight: bold;
+	color: #a30000;
+}
+
+.subeffectleftcolumn {
+	margin-left: 32;
+	leading: -15;
+}
+
+.subeffectrightcolumn {
+	margin-left: 228;
+}
+
+.exotic {
+	font-family: Roboto;
+	font-size: 15;
+	color: #064ca1;
+}
+
+.exoticvalue {
+	font-family: Roboto;
+	font-size: 15;
+	font-weight: bold;
+	color: #064ca1;
+}
+
+.theoretical {
+	font-family: Roboto;
+	font-size: 15;
+	color: #525252 ;
+}
+
+.requirement {
+	font-family: Roboto;
+	font-size: 15;
+	color: #920b0b;
+}
+
+.special {
+	font-family: Roboto;
+	font-size: 15;
+	color: #920b0b;
+}
+
+.set {
+	font-family: Roboto;
+	font-size: 15;
+	color: #725221;
+}
+
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #990d0d;
+	margin-left: 32;
+}
+
+.description {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ad6a32;
+}
+
+.quote {
+	font-family: Roboto;
+	font-size: 15;
+	font-style: italic;
+	color: #ad6a32;
+}
+
+.headerp {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ffffff;
+	margin-left: 48;
+}
+
+.headermalus {
+	font-family: Roboto;
+	font-size: 15;
+	color: #962519;
+	margin-left: 48;
+}
+
+.headertitle {
+	font-family: Roboto;
+	font-size: 18;
+	font-weight: bold;
+	color: #353535;
+	margin-left: 48;
+}
+
+.footer {
+	font-family: Roboto;
+	font-size: 15;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: center;
+}
+
+.footerleft {
+	font-family: Roboto;
+	font-size: 15;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: left;
+	leading: -15;
+}
+
+.footerright {
+	font-family: Roboto;
+	font-size: 15;
+	font-style: italic;
+	color: #6d6d6d;
+	text-align: right;
+	leading: -15;
+}
+
+spellZone {
+	font-family: Roboto;
+	font-size: 15;
+	color: #353535;
+	margin-left: 32;
+}
+
+.spellpair {
+    font-family: Roboto;
+    font-size: 18;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.subtitleheader {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ffffff;
+}

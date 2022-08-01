@@ -1,0 +1,54 @@
+p {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #383838;
+	text-align: left;
+	font-weight: bold;
+}
+
+normal {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #383838;
+	text-align: left;
+	font-weight: bold;
+}
+
+center {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #383838;
+	font-weight: bold;
+	text-align: center;
+}
+
+spell {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #ffac4b;
+	text-align: left;
+	font-weight: bold;
+}
+
+etheral {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #8ab7ee;
+	text-align: left;
+	font-weight: bold;
+}
+
+itemset {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #feb336;
+	text-align: left;
+	font-weight: bold;
+}
+
+shield {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #9966CC;
+	font-weight: bold;
+}

@@ -1,0 +1,89 @@
+normalhistory {
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	color: #ffffff;
+}
+
+successhistory {
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	color: #235818;
+}
+
+neutralhistory {
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	color: #454545;
+}
+
+exohistory {
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	color: #064ca1;
+}
+
+failurehistory {
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	color: #a30000;
+}
+
+shouldnothappenhistory {
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: right;
+	color: #a30000;
+}
+
+normaleffect {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #ffffff;
+	text-align: justify;
+	font-weight: normal;
+}
+
+losteffect {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #454545;
+	text-align: justify;
+	font-weight: normal;
+}
+
+exoeffect {
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: justify;
+	font-weight: normal;
+	color:#064ca1;
+}
+
+faileffect {
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: justify;
+	font-weight: normal;
+	color:#a30000;
+}
+
+successeffect {
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: justify;
+	font-weight: normal;
+	color:#235818;
+}
+
+overeffect {
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: normal;
+    color:#a202b1;
+}

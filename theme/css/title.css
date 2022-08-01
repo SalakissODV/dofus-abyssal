@@ -1,0 +1,300 @@
+p {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: left;
+}
+right {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: right;
+}
+center {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #f3f3f3;
+	font-weight: bold;
+	text-align: center;
+}
+shadowedcenter_center{
+    shadow-color: #795f36;
+    shadow-angle: 360;
+    shadow-blurX: 4;
+    shadow-blurY: 4;
+    shadow-distance: 0;
+    shadow-strength: 3;
+}
+small {
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: left;
+}
+smallright {
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: right;
+}
+smallcenter {
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: center;
+}
+dark {
+	font-family: RobotoCondensed;
+	font-size: 21px;
+	color: #f3f3f3;
+	font-weight: bold;
+    text-align: left;
+    shadow-color: #795f36;
+    shadow-blurX: 4;
+    shadow-blurY: 4;
+    shadow-distance: 0;
+    shadow-strength: 3;
+    shadow-angle: 360;
+}
+darkcenter {
+	font-family: RobotoCondensed;
+	font-size: 21px;
+	color: #f3f3f3;
+	font-weight: bold;
+    text-align: center;
+    shadow-color: #795f36;
+    shadow-angle: 360;
+    shadow-blurX: 4;
+    shadow-blurY: 4;
+    shadow-distance: 0;
+    shadow-strength: 3;
+}
+
+darkcenterbig {
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #4E280A;
+	text-align: center;
+}
+opposite {
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #312D24;
+}
+oppositecenter {
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #4E280A;
+	text-align:center;
+}
+
+
+white {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: normal;
+	text-align: left;
+}
+whitemedium {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: medium;
+	text-align: left;
+}
+whitecenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: normal;
+	text-align: center;
+}
+
+whitemediumcenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: medium;
+	text-align: center;
+}
+
+purewhitemedium {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: medium;
+	text-align: left;
+}
+
+green {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #f8cd01;
+	font-weight: normal;
+	text-align: left;
+}
+greenbold {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: left;
+}
+greencenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #f8cd01;
+	font-weight: normal;
+	text-align: center;
+}
+
+gray {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #696968;
+	font-weight: bold;
+	text-align: left;
+}
+
+whitebold {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #e0e0de;
+	font-weight: bold;
+	text-align: left;
+}
+whiteboldcenter {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #e0e0de;
+	font-weight: bold;
+	text-align: center;
+}
+whiteboldright {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #e0e0de;
+	font-weight: bold;
+	text-align: right;
+}
+
+whitemediumboldcenter {
+	font-family: RobotoCondensed;
+	font-size: 24px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+
+whitebigbold {
+	font-family: RobotoCondensed;
+	font-size: 27px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+whitebigboldcenter {
+	font-family: RobotoCondensed;
+	font-size: 27px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+whitehugebold {
+	font-family: RobotoCondensed;
+	font-size: 44px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+whitehugeboldcenter {
+	font-family: RobotoCondensed;
+	font-size: 35px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+	shadow-distance: 1;
+	shadow-blurX: 7;
+	shadow-blurY: 7;
+	shadow-angle: 45;
+	shadow-alpha: 0.6;
+}
+
+itemset {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #725221;
+	font-weight: bold;
+	text-align: left;
+}
+
+itemetheral {
+	font-family: RobotoCondensed;
+	font-size: 20px;
+	color: #254c7a;
+	font-weight: bold;
+	text-align: left;
+}
+victory {
+    font-family: RobotoCondensed;
+    font-size: 24px;
+    color: #673d15;
+    font-weight: bold;
+    text-align: center;
+    shadow-color: #faf328;
+    shadow-blurX: 2;
+    shadow-blurY: 2;
+    shadow-distance: 2;
+    shadow-angle: 90;
+}
+defeat {
+    font-family: RobotoCondensed;
+    font-size: 24px;
+    color: #47360c;
+    font-weight: bold;
+    text-align: center;
+    shadow-color: #d39086;
+    shadow-blurX: 2;
+    shadow-blurY: 2;
+    shadow-distance: 2;
+    shadow-angle: 90;
+}
+levelup {
+	font-family: RobotoCondensed;
+	font-size: 40px;
+	color: #673d15;
+	font-weight: bold;
+	text-align: center;
+	shadow-color: #faf328;
+	shadow-blurX: 2;
+	shadow-blurY: 4;
+	shadow-distance: 2;
+	shadow-angle: 90;
+}
+levelupomega_levelup {
+	font-size: 60px;
+}
+scroll {
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #d09b4b;
+	text-align: center;
+	shadow-color : #000;
+	shadow-distance : 9;
+}
+
+newfeaturetitle
+{
+	font-family: RobotoCondensed;
+	font-size: 34px;
+	color: #fea601;
+	font-weight: bold;
+	text-align: right;
+	shadow: 2px 2px 2px #fea601, 0px 0px 25px #fea601;
+}

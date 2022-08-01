@@ -1,0 +1,11 @@
+<theme>
+	<skinType>1</skinType>
+    <name>Sandstone</name>
+    <description>Thème basé sur Saharach et le grès.</description>
+    <previewUri>Sandstone.png</previewUri>
+	<author>Salakiss</author>
+	<version>2.0.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.58</dofusVersion> 
+    <creationDate>10/10/2016</creationDate> 
+    <modificationDate>30/12/2020</modificationDate> 
+</theme>
