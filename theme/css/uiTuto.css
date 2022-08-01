@@ -1,0 +1,32 @@
+p {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #c7c7c5;
+    text-align: left;
+}
+
+endbutton {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #c7c7c5;
+    font-stretch: condensed;
+    font-weight: normal;
+    text-align: center;
+}
+
+skip {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #c7c7c5;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+}
+
+skipover {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #c7c7c5;
+    font-weight: normal;
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+<theme>
+	<skinType>1</skinType>
+    <name>JeuxOnLine</name>
+    <description>Thème JeuxOnline - Dofus.</description>
+    <previewUri>jeuxOnlinePreview.png</previewUri>
+    <author>Salakiss</author>
+    <version>2.0.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.58</dofusVersion> 
+    <creationDate>29/12/2018</creationDate> 
+    <modificationDate>28/12/2020</modificationDate> 
+</theme> 
