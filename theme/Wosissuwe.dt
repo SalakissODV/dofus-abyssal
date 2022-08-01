@@ -1,0 +1,11 @@
+<theme>
+	<skinType>1</skinType>
+    <name>Wosissuwe</name>
+    <description>La rosissure ne s'attaque pas qu'aux bouftous !</description>
+    <previewUri>Wause.png</previewUri>
+    <author>Salakiss</author>
+    <version>2.0.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.58</dofusVersion> 
+    <creationDate>02/10/2016</creationDate> 
+    <modificationDate>29/12/2020</modificationDate> 
+</theme>
