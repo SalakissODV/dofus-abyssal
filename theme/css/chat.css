@@ -1,6 +1,6 @@
 p {
     font-family: Tahoma;
-    font-size: 16px;
+    font-size: 16;
     text-align: left;
     padding-left: 12;
     text-indent: -10;
@@ -57,7 +57,7 @@ p8_p {
 
 /* Private */
 p9_p {
-    color: #1B96FF;
+    color: #7EC3FF;
 }
 
 /* Info */
@@ -92,8 +92,8 @@ sender_p {
 
 
 bubble {
-	font-family: Roboto;
-	font-size: 16px;
+	font-family: Tahoma;
+	font-size: 18px;
 	color: #312D24;
 	padding-left: -15;
 	text-align: left;

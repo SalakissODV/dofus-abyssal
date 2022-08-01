@@ -1,61 +1,70 @@
 p {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #DAEEFC;
+	color: #f8cd01;
 	font-weight: bold;
 	text-align: left;
 }
 right {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #DAEEFC;
+	color: #f8cd01;
 	font-weight: bold;
 	text-align: right;
 }
 center {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #DAEEFC;
+	color: #f8cd01;
 	font-weight: bold;
 	text-align: center;
 }
+
+redcenter {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #eb0000;
+	font-weight: bold;
+	text-align: center;
+}
+
 shadowedcenter_center{
 	shadow-distance: 2;
 	shadow-blurX: 2;
 	shadow-angle:90;
 }
 small {
-    font-family: RobotoCondensed;
-    font-size: 18px;
-    color: #DAEEFC;
-    font-weight: bold;
-    text-align: left;
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: left;
 }
 smallright {
-    font-family: RobotoCondensed;
-    font-size: 18px;
-    color: #DAEEFC;
-    font-weight: bold;
-    text-align: right;
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: right;
 }
 smallcenter {
-    font-family: RobotoCondensed;
-    font-size: 18px;
-    color: #DAEEFC;
-    font-weight: bold;
-    text-align: center;
+	font-family: RobotoCondensed;
+	font-size: 18px;
+	color: #f8cd01;
+	font-weight: bold;
+	text-align: center;
 }
 dark {
 	font-family: RobotoCondensed;
 	font-size: 21px;
-	color: #daeefc;
+	color: #2f2f25;
 	font-weight: bold;
 	text-align: left;
 }
 darkcenter {
 	font-family: RobotoCondensed;
 	font-size: 21px;
-	color: #020921;
+	color: #2f2f25;
 	font-weight: bold;
 	text-align: center;
 }
@@ -93,13 +102,6 @@ whitemedium {
 	font-weight: medium;
 	text-align: left;
 }
-whitemediumcenter {
-	font-family: Roboto;
-	font-size: 20px;
-	color: #c7c7c5;
-	font-weight: medium;
-	text-align: center;
-}
 whitecenter {
 	font-family: Roboto;
 	font-size: 20px;
@@ -108,35 +110,53 @@ whitecenter {
 	text-align: center;
 }
 
+whitemediumcenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: medium;
+	text-align: center;
+}
+
 purewhitemedium {
 	font-family: Roboto;
 	font-size: 20px;
 	color: #ffffff;
 	font-weight: medium;
-	text-align: left;	
+	text-align: left;
 }
-
 
 green {
 	font-family: Roboto;
 	font-size: 20px;
-	color: #3BCBB8;
+	color: #deff00;
 	font-weight: normal;
 	text-align: left;
 }
 greenbold {
 	font-family: RobotoCondensed;
 	font-size: 20px;
-	color: #3BCBB8;
+	color: #deff00;
 	font-weight: bold;
 	text-align: left;
 }
 greencenter {
 	font-family: Roboto;
 	font-size: 20px;
-	color: #3BCBB8;
+	color: #deff00;
 	font-weight: normal;
 	text-align: center;
+}
+
+shadowedgreencenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #deff00;
+	font-weight: normal;
+	text-align: center;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle: 90;
 }
 
 gray {
@@ -154,7 +174,6 @@ whitebold {
 	font-weight: bold;
 	text-align: left;
 }
-
 whiteboldcenter {
 	font-family: RobotoCondensed;
 	font-size: 20px;
@@ -162,7 +181,6 @@ whiteboldcenter {
 	font-weight: bold;
 	text-align: center;
 }
-
 whiteboldright {
 	font-family: RobotoCondensed;
 	font-size: 20px;
@@ -258,22 +276,22 @@ levelup {
 	color: #673d15;
 	font-weight: bold;
 	text-align: center;
-    shadow-color: #faf328;
-    shadow-blurX: 2;
-    shadow-blurY: 4;
-    shadow-distance: 2;
-    shadow-angle: 90;
+	shadow-color: #faf328;
+	shadow-blurX: 2;
+	shadow-blurY: 4;
+	shadow-distance: 2;
+	shadow-angle: 90;
 }
 levelupomega_levelup {
-    font-size: 60px;
+	font-size: 60px;
 }
 scroll {
-    font-family: Tahoma;
-    font-size: 25px;
-    color: #d09b4b;
-    text-align: center;
-    shadow-color : #000;
-    shadow-distance : 9;
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #d09b4b;
+	text-align: center;
+	shadow-color : #000;
+	shadow-distance : 9;
 }
 
 newfeaturetitle

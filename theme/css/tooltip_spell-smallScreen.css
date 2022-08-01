@@ -29,27 +29,27 @@ p {
 .bonus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #6db213;
+	color: #52AE3F;
 }
 
 .bonusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #8bf402;
+	color: #52AE3F;
 }
 
 .malus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #d0483a;
+	color: #CB685E;
 }
 
 .malusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #d0483a;
+	color: #CB685E;
 }
 
 .subeffectleftcolumn {
@@ -172,14 +172,21 @@ spellZone {
 }
 
 .spellpair {
-    font-family: Roboto;
-    font-size: 18;
-    font-weight: bold;
-    color: #dfdfdf;
+	font-family: Roboto;
+	font-size: 18;
+	font-weight: bold;
+	color: #dfdfdf;
 }
 
 .subtitleheader {
 	font-family: Roboto;
 	font-size: 15;
 	color: #c7c7c5;
+}
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }

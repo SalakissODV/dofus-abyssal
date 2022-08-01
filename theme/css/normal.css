@@ -368,6 +368,18 @@ brakmar {
 	color: #c10000;
 	text-align: left;
 }
+lightred {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF5C55;
+	text-align: left;
+}
+lightredcenter {
+	font-family: Tahoma;
+	font-size: 17px;
+	color: #FF5C55;
+	text-align: center;
+}
 
 /* Classe utilisé dans les popups pour centrer les messages d'erreur [css de base: brakmar] */
 red {
@@ -388,7 +400,7 @@ redcenter {
 itemSet {
 	font-family: Tahoma;
 	font-size: 17px;
-	color: #0099ED;
+	color: #a96a01;
 	letterSpacing: 0.3;
 }
 itemEtheral {
@@ -461,6 +473,10 @@ rightblue {
 	color: #46adb6;
 	text-align: right;
 }
+
+
+
+
 
 centerultrasmalldonotuse {
 	font-family: Tahoma;
