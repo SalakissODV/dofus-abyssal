@@ -1,0 +1,11 @@
+<theme>
+	<skinType>1</skinType>
+    <name>Argentic</name>
+    <description>Nuances de gris, basé sur le thème principal, darkStone.</description>
+    <previewUri>Argentic.png</previewUri>
+    <author>Salakiss</author>
+    <version>2.0.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.58</dofusVersion> 
+    <creationDate>02/09/2016</creationDate> 
+    <modificationDate>28/12/2020</modificationDate> 
+</theme> 
