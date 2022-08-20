@@ -2,7 +2,7 @@
 
 En cas de problème ou suggestion, n'hésitez pas à me contacter sur Twitter : @SalakissODV ou sur JeuxOnLine.info via MP : Salakiss.
 
-# 2.58
+# 2.64
 - Abyssal
 - Argentic
 - Bluestone
@@ -10,3 +10,4 @@ En cas de problème ou suggestion, n'hésitez pas à me contacter sur Twitter : 
 - JeuxOnLine
 - Sandstone
 - Wosissuwe
+- Stitch
